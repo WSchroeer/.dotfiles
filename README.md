@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/WieWaldi/.dotfiles/master/img/RZ-Amper_Logo_135x135.png" align="left" width="135px" height="135px" />
+<img src="https://raw.githubusercontent.com/WSchroeer/.dotfiles/master/img/TTI_Avatar_tiny.png" align="left" width="135px" height="135px" />
 
-### .dotfiles by WieWaldi
+### .dotfiles by WSchroeer
 > *My personal set of .dotfiles for bash, Zsh, tmux, screen, Vim and even PowerShell.*
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
@@ -48,4 +48,4 @@ git clone https://github.com/WieWaldi/.dotfiles.git ~/.dotfiles
 The option to create releases on GitHub is pretty nice. I really do like it since it give me easy access to all the files
 without git cloning the complete repository.  
 
-Version 1.0
+Version 1.1
